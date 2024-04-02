@@ -3,3 +3,4 @@ cache/
 .env
 .env.prod
 .env.test
+temp/
